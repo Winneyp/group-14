@@ -4,12 +4,12 @@
 
 ## Gameplay
 
-## UI
-- [ ] Home
-- [ ] Song selection
-- [ ] Gameplay
-- [ ] Leaderboard/result
-- [ ] Options
-
-## Controling
+## Control
 - Tap D,F,J,K
+
+## UI
+- Home
+- Song selection
+- Gameplay
+- Leaderboard/result
+- Options
